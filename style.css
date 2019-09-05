@@ -1,0 +1,50 @@
+html {   
+    background-color:#cabfb6;
+}
+body {
+    background-color: white;
+    width: 600px;
+    padding: 20px 100px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+img {
+    width: 600px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.Android{
+    background-color:#a4c93b;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 5px 25px;
+}
+
+.Apple{
+    background-color:#b6bcca;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 5px 25px;
+}
+
+a {
+    
+    border-radius: 5px;
+    background-color:#c9793b;
+    margin-left: 200px;
+    color: black;
+    padding: 10px 15px;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration:none;
+}
+
+h2{
+    font-family: 'Proza Libre', sans-serif;
+}
+li {
+    font-family: 'Open Sans', sans-serif;
+}
